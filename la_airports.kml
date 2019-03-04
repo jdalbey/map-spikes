@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+	<name>airports.kml</name>
+	<Style id="red">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+	</Style>
+	<Placemark> 
+		<name>Los Angeles-International Airport</name> 
+		<description>FAA</description> 
+		<styleUrl>#red</styleUrl> 
+		<Point> 
+			<coordinates>-118.38889,33.93806,0</coordinates> 
+		</Point> 
+	</Placemark> 
+	<Placemark> 
+		<name>Santa Monica Municipal Airport</name> 
+		<description>FAA</description> 
+		<styleUrl>#red</styleUrl> 
+		<Point> 
+			<coordinates>-118.45139,34.01583,0</coordinates> 
+		</Point> 
+	</Placemark> 
+	<Placemark> 
+		<name>San Bernardino-Met</name> 
+		<description>FAA</description> 
+		<styleUrl>#red</styleUrl> 
+		<Point> 
+			<coordinates>-117.25,34.11666,0</coordinates> 
+		</Point> 
+	</Placemark> 
+	<Placemark> 
+		<name>Long Beach Airport</name> 
+		<description>FAA</description> 
+		<styleUrl>#red</styleUrl> 
+		<Point> 
+			<coordinates>-118.14639,33.81167,0</coordinates> 
+		</Point> 
+	</Placemark> 
+</Document>
+</kml>
