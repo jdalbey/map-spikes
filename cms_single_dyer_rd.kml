@@ -1,0 +1,18 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Caltrans Message Signs</name>
+		<Style id="cms">
+			<LabelStyle><scale>0</scale></LabelStyle>
+			<IconStyle>
+				<Icon><href>http://quickmap.dot.ca.gov/img/cms32x32.png</href></Icon>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Northbound US-55 :: DYER RD</name>
+			<description>SLOW TRAFFIC AHEAD</description>
+			<styleUrl>#cms</styleUrl>
+			<Point><coordinates>-117.848017,33.712162</coordinates></Point>
+		</Placemark>
+	</Document>
+</kml>
