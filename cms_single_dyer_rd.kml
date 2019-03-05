@@ -12,6 +12,7 @@
 			<name>Northbound US-55 :: DYER RD</name>
 			<id>1</id>
 			<description>SLOW TRAFFIC AHEAD</description>
+			<Snippet>This is snippet text</Snippet>
 			<styleUrl>#cms</styleUrl>
 			<Point><coordinates>-117.848017,33.712162</coordinates></Point>
 		</Placemark>
