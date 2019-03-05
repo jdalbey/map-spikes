@@ -11,7 +11,6 @@
 		<Placemark id="1">
 			<name>Northbound US-55 :: DYER RD</name>
 			<description>SLOW TRAFFIC AHEAD</description>
-			<Snippet>This is snippet text</Snippet>
 			<styleUrl>#cms</styleUrl>
 			<Point><coordinates>-117.848017,33.712162</coordinates></Point>
 		</Placemark>
