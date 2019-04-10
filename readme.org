@@ -1,0 +1,38 @@
+* This Is A Heading
+** This Is A Sub-Heading
+*** And A Sub-Sub-Heading
+
+Paragraphs are separated by at least one empty line.
+
+Formatting works like this:
+ *bold* /italic/ _underlined_ +strikethrough+ =monospaced=
+
+Hyperlinks: 
+ [[https://news.ycombinator.com/][Hacker News]]
+
+ https://www.sanluisobispo.com/ → link without description
+
+ : Simple pre-formatted text such as for source code.
+ : This also respects the line breaks. *bold* is not bold here.
+
+ - list item
+ - another item
+   - sub-item
+     1. also enumerated
+     2. if you like
+ - [ ] yet to be done
+ - [X] item which is done	
+
+Org-mode! Some description goes here.
+
+1. list item one
+1. list item two
+
+My Table
+| My Column 1|My Column 2 | Last Column |
+|-
+| 42 | foo | bar|
+| 23 | baz | abcdefg|
+|-
+| 65 |||	
+ 
